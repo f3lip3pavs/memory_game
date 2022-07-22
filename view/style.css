@@ -17,7 +17,7 @@ body{
     transform-style: preserve-3d;/*faz com que a carta que esta fora do escopo do mouse fique visivel novamente ao der desvirada*/
     width: 120px;
     height: 120px;
-    /* box-sizing: border-box; */
+    /* box-sizing: border-box; lkdasfçlkj*/
 }
 
 .card-front{
